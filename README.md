@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=blaze36882)](https://github.com/blaze36882/github-readme-profile)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=blaze36882&theme=transparent)](https://github.com/blaze36882/github-readme-profile)
 
 <!--
 **blaze36882/blaze36882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
